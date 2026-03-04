@@ -1,0 +1,6 @@
+Partikel 1 | Posisi: (10, 5) | Jarak ke (5.0, 5.0): 5
+Partikel 2 | Posisi: (-3, 4) | Jarak ke (5.0, 5.0): 8.06226
+Partikel 3 | Posisi: (12.5, -8.2) | Jarak ke (5.0, 5.0): 15.1819
+Partikel 4 | Posisi: (0, 15) | Jarak ke (5.0, 5.0): 11.1803
+Partikel 5 | Posisi: (25.4, 11.1) | Jarak ke (5.0, 5.0): 21.2925
+Partikel 6 | Posisi: (-8.8, -8.8) | Jarak ke (5.0, 5.0): 19.5161
